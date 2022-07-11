@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG CMakeFiles/ThrustReduction_DatasetGenerator.dir/Module9/ThrustReduction/dataset_generator.cpp.o CMakeFiles/ThrustReduction_DatasetGenerator.dir/cmake_device_link.o -o ThrustReduction_DatasetGenerator  -Wl,-rpath,/usr/local/cuda-11.2/lib64 libgputk.a -lm -lcuda -lrt /usr/local/cuda-11.2/lib64/libcudart.so 

@@ -1,0 +1,297 @@
+[
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkArg.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkArg.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkArg.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkCUDA.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkCUDA.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkCUDA.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkDataset.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkDataset.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkDataset.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkDirectory.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkDirectory.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkDirectory.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkExit.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkExit.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkExit.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkExport.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkExport.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkExport.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkFile.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkFile.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkFile.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkImage.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkImage.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkImage.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkImport.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkImport.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkImport.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkInit.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkInit.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkInit.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkLogger.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkLogger.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkLogger.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkMPI.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkMPI.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkMPI.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkPPM.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkPPM.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkPPM.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkPath.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkPath.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkPath.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkSolution.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkSolution.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkSolution.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkSparse.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkSparse.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkSparse.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkTimer.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkTimer.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkTimer.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/gputkUtils.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkUtils.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/gputkUtils.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/gputk.dir/libgputk/vendor/json11.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/vendor/json11.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk/vendor/json11.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11  -UGPUTK_USE_CUDA -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module25/HeatEquation/solution.cu -o CMakeFiles/HeatEquationLibs_Solution.dir/Module25/HeatEquation/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module25/HeatEquation/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/DynamicParallelism_DatasetGenerator.dir/Module23/DynamicParallelism/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module23/DynamicParallelism/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module23/DynamicParallelism/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module23/DynamicParallelism/solution.cu -o CMakeFiles/DynamicParallelism_Solution.dir/Module23/DynamicParallelism/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module23/DynamicParallelism/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11  -Xcompiler -fopenmp -UGPUTK_USE_CUDA -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module14/UMMatrixMultiplication/solution.cu -o CMakeFiles/UMMatrixMultiplication_Solution.dir/Module14/UMMatrixMultiplication/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module14/UMMatrixMultiplication/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module7/Histogram/solution.cu -o CMakeFiles/Histogram_Solution.dir/Module7/Histogram/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module7/Histogram/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module4/BasicMatrixMultiplication/solution.cu -o CMakeFiles/BasicMatrixMultiplication_Solution.dir/Module4/BasicMatrixMultiplication/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module4/BasicMatrixMultiplication/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/TiledMatrixMultiplication_DatasetGenerator.dir/Module4/TiledMatrixMultiplication/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module4/TiledMatrixMultiplication/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module4/TiledMatrixMultiplication/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/Histogram_DatasetGenerator.dir/Module7/Histogram/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module7/Histogram/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module7/Histogram/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module8/Convolution/solution.cu -o CMakeFiles/Convolution_Solution.dir/Module8/Convolution/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module8/Convolution/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/Convolution_DatasetGenerator.dir/Module8/Convolution/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module8/Convolution/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module8/Convolution/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/BasicMatrixMultiplication_DatasetGenerator.dir/Module4/BasicMatrixMultiplication/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module4/BasicMatrixMultiplication/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module4/BasicMatrixMultiplication/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ImageColorToGrayscale/solution.cu -o CMakeFiles/ImageColorToGrayscale_Solution.dir/Module3/ImageColorToGrayscale/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ImageColorToGrayscale/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11  -Xcompiler -fopenmp -UGPUTK_USE_CUDA -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module24/HeatEquation/solution.cu -o CMakeFiles/HeatEquationMG_Solution.dir/Module24/HeatEquation/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module24/HeatEquation/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/ThrustVectorAdd_DatasetGenerator.dir/Module3/ThrustVectorAdd/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ThrustVectorAdd/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ThrustVectorAdd/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module2/DeviceQuery/template.cu -o CMakeFiles/DeviceQuery_Solution.dir/Module2/DeviceQuery/template.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module2/DeviceQuery/template.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ImageBlur/solution.cu -o CMakeFiles/ImageBlur_Solution.dir/Module3/ImageBlur/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ImageBlur/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/ImageColorToGrayscale_DatasetGenerator.dir/Module3/ImageColorToGrayscale/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ImageColorToGrayscale/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ImageColorToGrayscale/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module4/TiledMatrixMultiplication/solution.cu -o CMakeFiles/TiledMatrixMultiplication_Solution.dir/Module4/TiledMatrixMultiplication/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module4/TiledMatrixMultiplication/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/VectorAdd_DatasetGenerator.dir/Module3/VectorAdd/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module3/VectorAdd/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module3/VectorAdd/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module3/VectorAdd/solution.cu -o CMakeFiles/VectorAdd_Solution.dir/Module3/VectorAdd/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module3/VectorAdd/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ThrustVectorAdd/solution.cu -o CMakeFiles/ThrustVectorAdd_Solution.dir/Module3/ThrustVectorAdd/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ThrustVectorAdd/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/ImageBlur_DatasetGenerator.dir/Module3/ImageBlur/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ImageBlur/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module3/ImageBlur/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module7/TextHistogram/solution.cu -o CMakeFiles/TextHistogram_Solution.dir/Module7/TextHistogram/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module7/TextHistogram/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/ThrustReduction_DatasetGenerator.dir/Module9/ThrustReduction/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module9/ThrustReduction/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module9/ThrustReduction/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module14/VectorAddStream/solution.cu -o CMakeFiles/VectorAdd_Stream_Solution.dir/Module14/VectorAddStream/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module14/VectorAddStream/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module8/Stencil/solution.cu -o CMakeFiles/Stencil_Solution.dir/Module8/Stencil/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module8/Stencil/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/TextHistogram_DatasetGenerator.dir/Module7/TextHistogram/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module7/TextHistogram/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module7/TextHistogram/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/Stencil_DatasetGenerator.dir/Module8/Stencil/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module8/Stencil/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module8/Stencil/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/Reduction_DatasetGenerator.dir/Module9/Reduction/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module9/Reduction/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module9/Reduction/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module9/ThrustReduction/solution.cu -o CMakeFiles/ThrustReduction_Solution.dir/Module9/ThrustReduction/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module9/ThrustReduction/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module10/ThrustListScan/solution.cu -o CMakeFiles/ThrustListScan_Solution.dir/Module10/ThrustListScan/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module10/ThrustListScan/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module10/ListScan/solution.cu -o CMakeFiles/ListScan_Solution.dir/Module10/ListScan/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module10/ListScan/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/ThrustListScan_DatasetGenerator.dir/Module10/ThrustListScan/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module10/ThrustListScan/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module10/ThrustListScan/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module11/BfsQueue/solution.cu -o CMakeFiles/BfsQueue_Solution.dir/Module11/BfsQueue/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module11/BfsQueue/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/ListScan_DatasetGenerator.dir/Module10/ListScan/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module10/ListScan/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module10/ListScan/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/BfsQueue_DatasetGenerator.dir/Module11/BfsQueue/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module11/BfsQueue/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module11/BfsQueue/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module9/Reduction/solution.cu -o CMakeFiles/Reduction_Solution.dir/Module9/Reduction/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module9/Reduction/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/VectorAdd_Stream_DatasetGenerator.dir/Module14/VectorAddStream/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module14/VectorAddStream/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module14/VectorAddStream/dataset_generator.cpp"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem=/usr/local/cuda-11.2/include  -arch=sm_50 -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=c++11 -x cu -dc /lclhome/tcickovs/PluMA/pipelines/GPU/Module14/PinnedMemoryStreamsVectorAdd/solution.cu -o CMakeFiles/PinnedMemoryStreamsVectorAdd_Solution.dir/Module14/PinnedMemoryStreamsVectorAdd/solution.cu.o",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module14/PinnedMemoryStreamsVectorAdd/solution.cu"
+},
+{
+  "directory": "/lclhome/tcickovs/PluMA/pipelines/GPU/build",
+  "command": "/usr/bin/c++ -DGPUTK_USE_CUDA -I/lclhome/tcickovs/PluMA/pipelines/GPU/libgputk -isystem /usr/local/cuda-11.2/include  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG -std=c++11 -Wno-unused-function -Wno-unused-parameter -Wextra -Wno-unused-variable -std=gnu++11 -o CMakeFiles/PinnedMemoryStreamsVectorAdd_DatasetGenerator.dir/Module14/PinnedMemoryStreamsVectorAdd/dataset_generator.cpp.o -c /lclhome/tcickovs/PluMA/pipelines/GPU/Module14/PinnedMemoryStreamsVectorAdd/dataset_generator.cpp",
+  "file": "/lclhome/tcickovs/PluMA/pipelines/GPU/Module14/PinnedMemoryStreamsVectorAdd/dataset_generator.cpp"
+}
+]

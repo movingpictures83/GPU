@@ -1,0 +1,9 @@
+{
+	"answers": [
+		"N - one for each pair of input vector elements.",
+		"2N - one for each input vector element.",
+		"N - one for each output vector element.",
+		"2N + N - One for each input and output vector element",
+		"If the data does not fit in the GPU memory then Pinned memory can become a savior as it allows the GPU to access the host memory seamlessly"
+	]
+}

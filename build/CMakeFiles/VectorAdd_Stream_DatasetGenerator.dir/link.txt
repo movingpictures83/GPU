@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG CMakeFiles/VectorAdd_Stream_DatasetGenerator.dir/Module14/VectorAddStream/dataset_generator.cpp.o CMakeFiles/VectorAdd_Stream_DatasetGenerator.dir/cmake_device_link.o -o VectorAdd_Stream_DatasetGenerator  -Wl,-rpath,/usr/local/cuda-11.2/lib64 libgputk.a -lm -lcuda -lrt /usr/local/cuda-11.2/lib64/libcudart.so 

@@ -1,0 +1,13 @@
+{
+   "code_score" : 0.95,
+   "questions_score" : 0.05,
+   "name" : "Multi-GPU Heat Equation",
+   "peer_review_score" : 0,
+   "coursera_peer_review_post_key" : "NONE",
+   "language" : "CUDA",
+   "week" : 24,
+   "compile_score" : 0.1,
+   "coursera_code_post_key" : "NONE",
+   "peer_review_deadline" : "2020-04-27T03:00:00Z",
+   "coding_deadline" : "2020-04-27T03:00:00Z"
+}

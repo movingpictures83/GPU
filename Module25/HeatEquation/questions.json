@@ -1,0 +1,8 @@
+{
+	"questions": [
+		"In which BLAS level should the norm and axpy routines be?",
+		"How many non zero elements are in the tridiagonal matrix presented in the algorithm section?",
+		"How much space is being saved by using the CSR representation instead of a dense matrix for the tridiagonal matrix presented in the algorithm section, when dimX = 1024?",
+		"Why is it necesary to call functions to create or deatroy a handle in cuBLAS and cuSPARSE?"
+	]
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG CMakeFiles/ListScan_DatasetGenerator.dir/Module10/ListScan/dataset_generator.cpp.o CMakeFiles/ListScan_DatasetGenerator.dir/cmake_device_link.o -o ListScan_DatasetGenerator  -Wl,-rpath,/usr/local/cuda-11.2/lib64 libgputk.a -lm -lcuda -lrt /usr/local/cuda-11.2/lib64/libcudart.so 

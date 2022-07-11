@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG CMakeFiles/Stencil_DatasetGenerator.dir/Module8/Stencil/dataset_generator.cpp.o CMakeFiles/Stencil_DatasetGenerator.dir/cmake_device_link.o -o Stencil_DatasetGenerator  -Wl,-rpath,/usr/local/cuda-11.2/lib64 libgputk.a -lm -lcuda -lrt /usr/local/cuda-11.2/lib64/libcudart.so 

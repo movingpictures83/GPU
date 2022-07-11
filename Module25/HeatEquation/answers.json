@@ -1,0 +1,8 @@
+{
+	"answers": [
+		"In the first level since they are vector vector operations.",
+		"There are 3 dimX - 6 non zero elements, because there are 3 elements per row in dimX - 2 rows.",
+		"The dense matrix requires 1024 * 1024 * 8 bytes, which is 8 MB of storage. The sparse matrix requires (3 * 1024 - 6) * 8 + (1024 + 1) * 4 + (3 * 1024 - 6) * 4, where each sumand corresponds to the values, row pointers and col indexes arrays respectively, which is around 0.038 MB. Hence by using CSR instead of a dense matrix we are saving around 7.69 MB",
+		"The handles store information needed by the libraries to perform correctly"
+	]
+}

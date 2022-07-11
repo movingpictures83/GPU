@@ -1,0 +1,12 @@
+{
+	"answers": [
+           "5 - there are 5 dynamic kernel calls occuring in the program.",   
+           "4 - BFS kernel executes as long as previous frontier is non zero.",
+           "1 - because we have only one deep dynamic call that adds neighborlist to the frontier.",
+           "(256*4+1024*5) - because CPU kernel launches 256 threads per block and has 4 launches while there are 5 dynamic calls launches of each 1024 threads.",
+           "5 - no changes as the dynamic kernel call for 5's neighbor would process one additional node which has been previously visited" 
+	]
+}
+		
+
+

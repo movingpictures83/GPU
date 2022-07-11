@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wno-dollar-in-identifier-extension -O3 -DNDEBUG CMakeFiles/ThrustVectorAdd_DatasetGenerator.dir/Module3/ThrustVectorAdd/dataset_generator.cpp.o CMakeFiles/ThrustVectorAdd_DatasetGenerator.dir/cmake_device_link.o -o ThrustVectorAdd_DatasetGenerator  -Wl,-rpath,/usr/local/cuda-11.2/lib64 libgputk.a -lm -lcuda -lrt /usr/local/cuda-11.2/lib64/libcudart.so 
