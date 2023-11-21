@@ -1,1 +1,0 @@
-/usr/local/cuda-11.2/bin/nvcc -forward-unknown-to-host-compiler  -arch=sm_50 -O3 -DNDEBUG -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/ThrustListScan_DatasetGenerator.dir/Module10/ThrustListScan/dataset_generator.cpp.o -o CMakeFiles/ThrustListScan_DatasetGenerator.dir/cmake_device_link.o  -lm -lcuda -lrt  

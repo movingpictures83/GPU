@@ -1,9 +1,0 @@
-{
-	"answers": [
-		"Is a programming model for threaded parallelism.",
-		"By enclosing with $\\#pragma\\ omp\\ parallel$ the block of code to parallelize.",
-		"By using $num\\_threads()$ as an option for $\\#pragma\\ omp\\ parallel$, or by setting the environment variable $OMP\\_NUM\\_THREADS$",
-		"`cudaSetDevice(dev)` must be called.",
-		"`cudaMemcpy` with `cudaMemcpyDeviceToDevice`, unified memory, `cudaMemcpyPeer`."
-	]
-}

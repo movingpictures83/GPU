@@ -1,9 +1,0 @@
-{
-	"questions": [
-		"How many floating operations are being performed in your vector add kernel in the case of cudaStream and in the case of Pinned memory? EXPLAIN.",
-		"How many pinned memory reads are being performed by your kernel ? EXPLAIN.",
-		"How many pinned memory writes are being performed by your kernel? EXPLAIN.",
-		"How many bytes of data (both read and write) is moved from Host to devuce when using cudaStream lab (Part A)? EXPLAIN.",
-		"When should one use Pinned memory? EXPLAIN"
-	]
-}

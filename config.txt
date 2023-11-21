@@ -1,0 +1,47 @@
+Prefix pipelines/GPU/
+
+
+##############################################################################################################
+# VECTOR ADDITION
+Plugin GPUVectorAdd inputfile Parameters/parameters.gpuvectoradd.txt outputfile data/VEC/vectoradd.raw
+Plugin GPUStreamVectorAdd inputfile Parameters/parameters.gpuvectoradd.txt outputfile data/VEC/vectoradd.stream.raw
+Plugin GPUThrustVectorAdd inputfile Parameters/parameters.gpuvectoradd.txt outputfile data/VEC/vectoradd.thrust.raw
+Plugin GPUVectorAddPM inputfile Parameters/parameters.gpuvectoradd.txt outputfile data/VEC/vectoradd.pinned.raw
+##############################################################################################################
+
+###############################################################################################################
+# MATRIX MULTIPLICATION
+Plugin GPUMatMult inputfile Parameters/parameters.gpumatmult.txt outputfile data/MAT/output.raw
+Plugin GPUTiledMatMult inputfile Parameters/parameters.gpumatmult.txt outputfile data/MAT/output.tiled.raw
+###############################################################################################################
+
+###############################################################################################################
+# HISTOGRAM
+Plugin GPUHistogram inputfile Parameters/parameters.gpuhistogram.txt outputfile data/HIST/output.raw
+Plugin GPUHistogramSort inputfile Parameters/parameters.gpuhistogram.txt outputfile data/HIST/output.sort.raw
+Plugin GPUTextHistogram inputfile Parameters/parameters.gputexthistogram.txt outputfile data/HIST/output.txt
+###############################################################################################################
+
+###############################################################################################################
+# LIST SCAN
+Plugin GPUListScan inputfile Parameters/parameters.gpulistscan.txt outputfile data/LIST/output.raw
+Plugin GPUThrustListScan inputfile Parameters/parameters.gpulistscan.txt outputfile data/LIST/output.thrust.raw
+###############################################################################################################
+
+###############################################################################################################
+# REDUCTION
+Plugin GPUReduction inputfile Parameters/parameters.gpureduction.txt outputfile none
+Plugin GPUThrustReduction inputfile Parameters/parameters.gpureduction.txt outputfile none
+###############################################################################################################
+
+###############################################################################################################
+# IMAGES
+Plugin GPUBlur inputfile data/IMG/input.ppm outputfile data/IMG/blur.ppm
+Plugin GPUGrayScale inputfile data/IMG/input2.ppm outputfile data/IMG/grayscale.ppm
+###############################################################################################################
+
+###############################################################################################################
+# MISCELLANEOUS
+Plugin GPUBarnesHut inputfile Parameters/parameters.gpubarneshut.txt outputfile none
+Plugin GPUBFSQueue inputfile Parameters/parameters.gpubfsqueue.txt outputfile none
+###############################################################################################################

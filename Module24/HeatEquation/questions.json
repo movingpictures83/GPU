@@ -1,9 +1,0 @@
-{
-	"questions": [
-		"What is OpenMP?",
-		"How to create a parallel region with OpenMP?",
-		"How can we set the number of threads used by OpenMP?",
-		"What needs to be done before executing an instruction in a particular GPU?",
-		"What 3 mechanisms are available to copy memory between devices?"
-	]
-}

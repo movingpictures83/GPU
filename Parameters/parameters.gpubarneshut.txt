@@ -1,0 +1,3 @@
+nbodies	4
+timesteps	10
+device	0

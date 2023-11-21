@@ -1,0 +1,5 @@
+matrix1	data/MAT/input0.raw
+matrix2	data/MAT/input1.raw
+M	4
+N	4
+P	4
